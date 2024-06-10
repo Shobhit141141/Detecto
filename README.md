@@ -21,5 +21,23 @@ Here are some of the project's best features:
 | Sound Notification 🔊 | Play a sound on face detection to alert the user. |
 | Snapshot Saving 📸 | Save snapshots of detected faces with timestamps. |
 
+<h2>🛠️ Installation Steps:</h2>
 
+<p>1. Clone the repo</p>
+
+```
+https://github.com/Shobhit141141/Detecto.git
+```
+
+<p>2. Install the requirements</p>
+
+```
+pip install -r requirements.txt
+```
+
+<p>3. Start the detect.py</p>
+
+```
+python detect.py
+```
 
